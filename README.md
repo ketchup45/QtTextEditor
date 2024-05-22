@@ -1,2 +1,2 @@
 # QtTextEditor
-数据结构课程设计
+Qt实现的文本编辑器
